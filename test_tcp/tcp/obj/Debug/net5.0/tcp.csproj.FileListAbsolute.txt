@@ -1,0 +1,15 @@
+D:\lianxi\test_tcp\tcp\bin\Debug\net5.0\tcp.exe
+D:\lianxi\test_tcp\tcp\bin\Debug\net5.0\tcp.deps.json
+D:\lianxi\test_tcp\tcp\bin\Debug\net5.0\tcp.runtimeconfig.json
+D:\lianxi\test_tcp\tcp\bin\Debug\net5.0\tcp.runtimeconfig.dev.json
+D:\lianxi\test_tcp\tcp\bin\Debug\net5.0\tcp.dll
+D:\lianxi\test_tcp\tcp\bin\Debug\net5.0\ref\tcp.dll
+D:\lianxi\test_tcp\tcp\bin\Debug\net5.0\tcp.pdb
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\tcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\tcp.AssemblyInfoInputs.cache
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\tcp.AssemblyInfo.cs
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\tcp.csproj.CoreCompileInputs.cache
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\tcp.dll
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\ref\tcp.dll
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\tcp.pdb
+D:\lianxi\test_tcp\tcp\obj\Debug\net5.0\tcp.genruntimeconfig.cache
